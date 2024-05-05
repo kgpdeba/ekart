@@ -1,0 +1,14 @@
+.header {
+    background-color:rgb(226, 226, 226);
+    height: 90vh;
+}
+
+.logo {
+    top: -12px;
+    left: 30px;
+    font-size: xx-large;
+}
+
+.hedaerNav{
+    text-decoration: none!important;
+}
